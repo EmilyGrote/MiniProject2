@@ -1,0 +1,12 @@
+---
+title: "Lecture 3_7_18"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+```
+
+### GitHub:
+
+* asdf
